@@ -1,0 +1,15 @@
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+}
+
+.unitContainer {
+  display:grid;
+  grid-template-columns:50% 10% 10% 10% 10% 10%;
+}
+
+#textInput {
+  position:fixed;
+  left:-200px;
+
+}
